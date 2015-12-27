@@ -18,7 +18,7 @@ class php5(
     $php_version   = $php5::params::php_version,
 ) inherits php5::params {
 
-  $configure_cmd = $php5::params::configure_cmd,
+  $configure_cmd = $php5::params::configure_cmd
 
   $srcdir = "${targetdir}/php-${php_version}"
 

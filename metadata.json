@@ -1,6 +1,6 @@
 {
   "name": "alanpetersen-php5",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "alanpetersen",
   "summary": "installs PHP 5.5 on RedHat/CentOS 6 machines",
   "license": "Apache-2.0",
